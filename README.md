@@ -2,9 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
   This project is designed to help me learn how to both utilize git and github, and serve as a place to collect my knowledge as I go through the bootcamp. It will allow me to have a hub for placing my notes and new info during studying, while also learning to use git version control
 
 ## Installation
@@ -33,12 +30,4 @@ Badges aren't necessary, but they demonstrate street cred. Badges let other deve
 
 ## Features
 
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute to it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+List of topics pertaining to web development, constantly updated to reflect further learning
